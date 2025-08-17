@@ -60,4 +60,4 @@ The calculator outputs:
 
 
 👩‍💻 Authors
-Debasmita Bose    Aman Srivastava
+<p align="left"> <b>Debasmita Bose</b><br> <b>Aman Srivastava</b><br> </p>
