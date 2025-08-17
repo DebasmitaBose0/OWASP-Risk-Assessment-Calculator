@@ -42,21 +42,22 @@ python risk_calculator.py
 
 Provide input values (scale 0–9) for:
 
-Threat Agent Factors
+* Threat Agent Factors
 
-Vulnerability Factors
+* Vulnerability Factors
 
-Technical Impact
+* Technical Impact
 
-Business Impact
+* Business Impact
 
 The calculator outputs:
 
-Likelihood Score
+** Likelihood Score
 
-Impact Score
+** Impact Score
 
-Overall Risk Level
+** Overall Risk Level
+
 
 👩‍💻 Authors
 Debasmita Bose    Aman Srivastava
