@@ -59,5 +59,4 @@ Impact Score
 Overall Risk Level
 
 👩‍💻 Authors
-Debasmita Bose
-Aman Srivastava
+Debasmita Bose    Aman Srivastava
